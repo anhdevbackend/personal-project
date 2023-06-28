@@ -1,7 +1,3 @@
-<p align="center"><a href="http://laravel-e-commerce-example.herokuapp.com" target="_blank"><img width="60%" src="https://i.ibb.co/dmzR5sC/laravel-e-commerce-example-screenshot.png" alt="screenshot" border="0"></a></p>
-
-### <a href="http://laravel-e-commerce-example.herokuapp.com" target="_blank">Live site</a>
-
 ## E-commerce example application with Laravel and Livewire
 
 ### Run this project
